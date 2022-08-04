@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:hotpink;
+	font-family: cursive;
+}
+.main{
+	width: 80%;
+	 margin:80px auto;
+	 border: groove;
+	 border-radius: 20px;
+	 padding:20px;
+}
+.main .infos{
+	 list-style: none;
+	 color: white;
+	 
+
+}
+h3,h3 span{
+	color: green;
+	font-size: 25px;
+	font-weight: bolder;
+	cursor: pointer;
+}
+.showOrhide{
+	display:none;
+
+}
